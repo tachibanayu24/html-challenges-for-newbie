@@ -1,4 +1,18 @@
-.challenge > div {
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.challenge-parent {
+  position: relative;
+  width: 400px;
+  height: 400px;
+}
+
+.challenge > div > div > div {
   height: 200px;
   width: 200px;
   display: flex;
@@ -13,14 +27,14 @@
   background-color: turquoise;
   color: saddlebrown;
   position: absolute;
-  top: 26%;
-  left: 42%;
+  top: 10px;
+  left: 10px;
 }
 
 .challenge-second-element {
   background-color: pink;
   color: slategray;
   position: absolute;
-  top: 37%;
-  left: 48%;
+  top: 140px;
+  left: 140px;
 }
