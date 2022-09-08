@@ -1,0 +1,17 @@
+.first {
+  width: 100%;
+  background-color: lightgreen;
+  margin: 12px 0;
+}
+
+.second {
+  width: 50%;
+  background-color: lightpink;
+  margin: 12px 0;
+}
+
+.third {
+  width: 300px;
+  background-color: turquoise;
+  margin: 12px 0;
+}

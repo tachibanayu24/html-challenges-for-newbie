@@ -1,0 +1,26 @@
+.challenge > div {
+  height: 200px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-weight: bold;
+  box-shadow: 4px 4px 4px 2px rgba(0, 0, 0, 0.2);
+  border-radius: 12px;
+}
+
+.challenge-first-element {
+  background-color: turquoise;
+  color: saddlebrown;
+  position: absolute;
+  top: 26%;
+  left: 42%;
+}
+
+.challenge-second-element {
+  background-color: pink;
+  color: slategray;
+  position: absolute;
+  top: 37%;
+  left: 48%;
+}
