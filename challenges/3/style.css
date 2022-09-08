@@ -1,3 +1,15 @@
-p {
-  color: mediumblue;
+.text-color {
+  color: crimson;
+}
+
+.text-size {
+  font-size: 40px;
+}
+
+.text-underline {
+  text-decoration: underline;
+}
+
+.text-weight {
+  font-weight: bold;
 }
